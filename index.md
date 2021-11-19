@@ -1,37 +1,140 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <title>Asal</title>
+        <meta name="viewport" content="width=display-width, initial-scale=1" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Dancing+Script&family=Kalam&family=Petemoss&family=Quicksand&display=swap" rel="stylesheet">
+    </head>
+    <body>
 
-You can use the [editor on GitHub](https://github.com/asalzp/asalzp.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+        <div class="container">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+            <div class="intro">
+                <img class="circular_image" src="file:///C:/Users/asalz/OneDrive/Desktop/project/profile.jpg"
+                width="100"
+                height="200" />
+                <h1 style="font-family: 'Architects Daughter';">Hi, I'm Asal</h1>
+                <h3>A programmer</h3>
+                <p style="font-style: italic;">“Python approach: a lie and wait for the right moment to strike.”</p>
+                <div class="quote">
+                    <p>Mr. Robot</p>
+                </div>
+            </div>
+            <hr />
+        
+        <div class="about-grid">
+            <div class="i-am">
+                <h2>I am skilled in</h2>
+                <ul class="about-list">
+                    <li>Different Programming languages</li>
+                    <li>Teamwork</li>
+                    <li>Playing the guitar</li>
+                    <li>A bit of Animating</li>
+                    
+                </ul>
+            </div>
 
-### Markdown
+            <div class="i-like">
+                <h2>&nbsp&nbsp&nbspI like</h2>
+                <ul class="about-list">
+                    <li>Coding</li>
+                    <li>Meeting new people</li>
+                    <li>Watching movies</li>
+                    <li>Eating Persian food</li>
+                </ul>
+            </div>
+        </div>
+            
+            <hr />
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+            <div>
+                <h2 class="projects-heading">My projects</h2>
+                <div class="projects-grid">
+                    <div class="projects-image-wrapper">
+                        <a href="https://github.com/asalzp/Projects-Done/tree/main">
+                            <img class="projects-image" src="file:///C:/Users/asalz/OneDrive/Desktop/project/projects.jpg"
+                            width="350"
+                            height="350" /> 
+                        </a>
+                        <h4 style="font-size: larger;">GitHub</h4>
+                    </div>
 
-```markdown
-Syntax highlighted code block
+                    <div class="projects-image-wrapper">
+                        <a href="file:///C:/Users/asalz/OneDrive/Desktop/project/resume.pdf">
+                            <img class="projects-image" src="file:///C:/Users/asalz/OneDrive/Desktop/project/game.jpg" 
+                            width="350"
+                            height="350" />
+                        </a>
+                        <h4 style="font-size: larger;">My Resume</h4>
+                    </div>
 
-# Header 1
-## Header 2
-### Header 3
+                </div>
+               
+            </div>
 
-- Bulleted
-- List
+            <div>
+                <h3 class="projects-heading">Some Stuff &nbspYou Might Want to Take a Look at!</h3>
+                <div class="projects-grid">
+                    <div class="projects-image-wrapper">
+                        <a href="movies.html">
+                            <img class="projects-image" src="file:///C:/Users/asalz/OneDrive/Desktop/project/movies.jpg"
+                            width="300"
+                            height="300" /> 
+                        </a>
+                        <h4 style="font-size: larger;">Top 10 Movies I Think Everyone Should Watch!</h4>
+                    </div>
 
-1. Numbered
-2. List
+                    <div class="projects-image-wrapper">
+                        <a href="food.html">
+                            <img class="projects-image" src="file:///C:/Users/asalz/OneDrive/Desktop/project/food.jpg" 
+                            width="300"
+                            height="300" />
+                        </a>
+                        <h4 style="font-size: larger;">8 Persian Recipes You Have to Try!</h4>
+                    </div> 
+                       
+                </div>
+                
+            </div>
 
-**Bold** and _Italic_ and `Code` text
+            <hr />
 
-[Link](url) and ![Image](src)
-```
+            <div class="links-and-contact">
+                <div class="links">
+                    <h3>Links</h3>
+                    <ul class="links-list">
+                        <li>
+                            <a href="https://www.facebook.com/asal.zare.169">Facebook</a>
+                        </li>
+                        <li>
+                            <a href="https://www.linkedin.com/in/asal-zarepakziabari-100667200/">LinkedIn</a>
+                        </li>
+                        <li>
+                            <a href="resources.html">Resources</a>
+                        </li>
+                    </ul>
+                </div>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/asalzp/asalzp.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+                <div>
+                    <form action="#">
+                        <label for="email">
+                            <h4>Email </h4>
+                            <input id="email" placeholder="Enter your email:">
+                        </label>
+                        <label for="message">
+                            <h4>Message </h4>
+                            <textarea id="message">Your Message</textarea>
+                        </label>
+                        <div class="submit-button-wrapper">
+                            <input id="submit-button" type="submit" value="Send Message">
+                        </div> 
+                    </form>
+                </div>
+            </div>
+        </div>
+        <script src="app.js"></script>
+    </body>
+</html>
