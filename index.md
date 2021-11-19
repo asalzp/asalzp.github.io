@@ -54,7 +54,7 @@
                 <h2 class="projects-heading">My projects</h2>
                 <div class="projects-grid">
                     <div class="projects-image-wrapper">
-                        <a href="https://github.com/asalzp/Projects-Done/tree/main">
+                        <a target="blank" href="https://github.com/asalzp/Projects-Done/tree/main">
                             <img class="projects-image" src="https://github.com/asalzp/asalzp.github.io/blob/main/projects.jpg"
                             width="350"
                             height="350" /> 
@@ -63,7 +63,7 @@
                     </div>
 
                     <div class="projects-image-wrapper">
-                        <a href="file:///C:/Users/asalz/OneDrive/Desktop/project/resume.pdf">
+                        <a target="blank" href="file:///C:/Users/asalz/OneDrive/Desktop/project/resume.pdf">
                             <img class="projects-image" src="https://github.com/asalzp/asalzp.github.io/blob/main/game.jpg" 
                             width="350"
                             height="350" />
@@ -79,7 +79,7 @@
                 <h3 class="projects-heading">Some Stuff &nbspYou Might Want to Take a Look at!</h3>
                 <div class="projects-grid">
                     <div class="projects-image-wrapper">
-                        <a href="movies.html">
+                        <a target="blank" href="movies.html">
                             <img class="projects-image" src="https://github.com/asalzp/asalzp.github.io/blob/main/movies.jpg"
                             width="300"
                             height="300" /> 
@@ -88,7 +88,7 @@
                     </div>
 
                     <div class="projects-image-wrapper">
-                        <a href="food.html">
+                        <a target="blank" href="food.html">
                             <img class="projects-image" src="https://github.com/asalzp/asalzp.github.io/blob/main/food.jpg" 
                             width="300"
                             height="300" />
