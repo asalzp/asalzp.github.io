@@ -55,7 +55,7 @@
                 <div class="projects-grid">
                     <div class="projects-image-wrapper">
                         <a href="https://github.com/asalzp/Projects-Done/tree/main">
-                            <img class="projects-image" src="file:///C:/Users/asalz/OneDrive/Desktop/project/projects.jpg"
+                            <img class="projects-image" src="https://github.com/asalzp/asalzp.github.io/blob/main/projects.jpg"
                             width="350"
                             height="350" /> 
                         </a>
@@ -64,7 +64,7 @@
 
                     <div class="projects-image-wrapper">
                         <a href="file:///C:/Users/asalz/OneDrive/Desktop/project/resume.pdf">
-                            <img class="projects-image" src="file:///C:/Users/asalz/OneDrive/Desktop/project/game.jpg" 
+                            <img class="projects-image" src="https://github.com/asalzp/asalzp.github.io/blob/main/game.jpg" 
                             width="350"
                             height="350" />
                         </a>
@@ -80,7 +80,7 @@
                 <div class="projects-grid">
                     <div class="projects-image-wrapper">
                         <a href="movies.html">
-                            <img class="projects-image" src="file:///C:/Users/asalz/OneDrive/Desktop/project/movies.jpg"
+                            <img class="projects-image" src="https://github.com/asalzp/asalzp.github.io/blob/main/movies.jpg"
                             width="300"
                             height="300" /> 
                         </a>
@@ -89,7 +89,7 @@
 
                     <div class="projects-image-wrapper">
                         <a href="food.html">
-                            <img class="projects-image" src="file:///C:/Users/asalz/OneDrive/Desktop/project/food.jpg" 
+                            <img class="projects-image" src="https://github.com/asalzp/asalzp.github.io/blob/main/food.jpg" 
                             width="300"
                             height="300" />
                         </a>
