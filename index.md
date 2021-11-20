@@ -64,7 +64,7 @@
 
                     <div class="projects-image-wrapper">
                         <a target="blank" href="https://github.com/asalzp/asalzp.github.io/blob/main/resume.pdf">
-                            <img class="projects-image" src="https://github.com/asalzp/asalzp.github.io/blob/main/game.jpg" 
+                            <img class="projects-image" src="https://github.com/asalzp/asalzp.github.io/main/game.jpg" 
                             width="350"
                             height="350" />
                         </a>
