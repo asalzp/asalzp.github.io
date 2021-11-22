@@ -13,7 +13,7 @@
         <div class="container">
 
             <div class="intro">
-                <img class="circular_image" src="https://github.com/asalzp/asalzp.github.io/blob/main/profile.jpg"
+                <img class="circular_image" src="https://github.com/asalzp/asalzp.github.io/blob/main/profile.JPG"
                 width="100"
                 height="200" />
                 <h1 style="font-family: 'Architects Daughter';">Hi, I'm Asal</h1>
