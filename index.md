@@ -13,7 +13,7 @@
         <div class="container">
 
             <div class="intro">
-                <img class="circular_image" src="./profile.JPG" alt="pic" id="main__img"
+                <img class="circular_image" src="./profile.JPG" 
                 width="100"
                 height="200" />
                 <h1 style="font-family: 'Architects Daughter';">Hi, I'm Asal</h1>
@@ -55,7 +55,7 @@
                 <div class="projects-grid">
                     <div class="projects-image-wrapper">
                         <a target="blank" href="https://github.com/asalzp/Projects-Done/tree/main">
-                            <img class="projects-image" src="https://github.com/asalzp/asalzp.github.io/blob/main/projects.jpg" alt="pic" id="main__img"
+                            <img class="projects-image" src="https://github.com/asalzp/asalzp.github.io/blob/main/projects.jpg" 
                             width="350"
                             height="350" /> 
                         </a>
