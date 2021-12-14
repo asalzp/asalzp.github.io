@@ -51,7 +51,7 @@ body{
 .projects-grid{
   display: grid;
   grid-template-columns: 50% 50% 50%;
-  margin-left: -500px;
+   transform: translate(-500px, 0px);
   
 }
 
