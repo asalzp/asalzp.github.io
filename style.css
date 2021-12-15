@@ -50,14 +50,15 @@ body{
 
 .projects-grid{
   display: grid;
-  grid-template-columns: 50% 50% 50%; 
-  justify-content: center;
+  grid-template-columns: 50% 50%; 
+  
   
 }
 
 .ent-grid{
-  display: grid;
-  grid-template-columns: 50% 50%; 
+   display: grid;
+   grid-template-columns: 50% 50% 50%; 
+   justify-content: center; 
 
 }
 
