@@ -61,8 +61,6 @@ body{
    
    grid-template-columns: 50% 50% 50%; 
   justify-content: center;
-    
-
 }
 
 .projects-image-wrapper{
@@ -103,6 +101,10 @@ body{
   .projects-grid{
     grid-template-columns: 100%;
   }
+  .ent-grid{
+   grid-template-columns: 100%; 
+
+}
 }
 
 .links-and-contact{
